@@ -1,0 +1,6 @@
+spcoursework.generateasm
+spcoursework.lexanalyser
+spcoursework.lexanalyser.tokens
+spcoursework.semanticanalyser
+spcoursework.syntaxanalyser
+spcoursework.translator
